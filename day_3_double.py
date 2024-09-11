@@ -14,8 +14,10 @@ extra(array1)
 
 #Test case 2
 array2 = [1,3,4,2,2]
+extra(array2)
 
 #Test case 3
 array3 = [1,1]
+extra(array3)
 
 
