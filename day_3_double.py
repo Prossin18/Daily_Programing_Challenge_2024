@@ -6,6 +6,16 @@ def extra(arr):
             
             print(arr[i])
             break
-array = [1,4,4,3,2]
 
-extra(array)
+
+#Test case 1
+array1 = [1,4,4,3,2]
+extra(array1)
+
+#Test case 2
+array2 = [1,3,4,2,2]
+
+#Test case 3
+array3 = [1,1]
+
+
